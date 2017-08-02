@@ -1,0 +1,9 @@
+/Users/Darek/Projects/ExceptionHandling/bin/Debug/netcoreapp1.1/ExceptionHandling.deps.json
+/Users/Darek/Projects/ExceptionHandling/bin/Debug/netcoreapp1.1/ExceptionHandling.runtimeconfig.json
+/Users/Darek/Projects/ExceptionHandling/bin/Debug/netcoreapp1.1/ExceptionHandling.runtimeconfig.dev.json
+/Users/Darek/Projects/ExceptionHandling/bin/Debug/netcoreapp1.1/ExceptionHandling.dll
+/Users/Darek/Projects/ExceptionHandling/bin/Debug/netcoreapp1.1/ExceptionHandling.pdb
+/Users/Darek/Projects/ExceptionHandling/obj/Debug/netcoreapp1.1/ExceptionHandling.csprojResolveAssemblyReference.cache
+/Users/Darek/Projects/ExceptionHandling/obj/Debug/netcoreapp1.1/ExceptionHandling.AssemblyInfo.cs
+/Users/Darek/Projects/ExceptionHandling/obj/Debug/netcoreapp1.1/ExceptionHandling.dll
+/Users/Darek/Projects/ExceptionHandling/obj/Debug/netcoreapp1.1/ExceptionHandling.pdb

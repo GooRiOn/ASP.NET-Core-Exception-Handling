@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E99D9C7A-C992-4572-A9EF-5C9C1A39A78D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Middleware/ErrorHandlerMiddleware.cs">
+    <Files>
+      <File FileName="Middleware/ErrorHandlerMiddleware.cs" Line="12" Column="40" />
+      <File FileName="Startup.cs" Line="39" Column="13" />
+      <File FileName="Controllers/ValuesController.cs" Line="17" Column="48" />
+      <File FileName="Program.cs" Line="21" Column="13" />
+      <File FileName="ExceptionHandlers/IExceptionHandler.cs" Line="9" Column="51" />
+      <File FileName="Exceptions/IExceptionResult.cs" Line="1" Column="1" />
+      <File FileName="Common/IErrorResult.cs" Line="4" Column="22" />
+      <File FileName="Exceptions/MyCustomException.cs" Line="4" Column="44" />
+      <File FileName="Exceptions/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="Exceptions/NoValuesFoundException.cs" Line="15" Column="2" />
+      <File FileName="ExceptionHandlers/NoValuesFoundExceptionHandler.cs" Line="13" Column="64" />
+      <File FileName="Common/IErrorResponseBody.cs" Line="6" Column="22" />
+      <File FileName="Common/ErrorCodes.cs" Line="9" Column="1" />
+      <File FileName="Common/ErrorResponseBody.cs" Line="12" Column="24" />
+      <File FileName="Common/ErrorResult.cs" Line="25" Column="1" />
+      <File FileName="Executors/ExceptionHandlerExecutor.cs" Line="20" Column="80" />
+      <File FileName="Executors/IExceptionHandlerExecutor.cs" Line="9" Column="52" />
+      <File FileName="IoC/CustomDependencyResolver.cs" Line="16" Column="13" />
+      <File FileName="IoC/ICustomDependencyResolver.cs" Line="6" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
